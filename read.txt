@@ -1,0 +1,5 @@
+运行使用命令
+nodemon app.js
+在大事件项目是前端，API_server1是后端，配合使用的：
+    先运行：API_server1
+    之后在大事件项目中按住 command + shift + P 输入express:Host current workspace and open in browser
